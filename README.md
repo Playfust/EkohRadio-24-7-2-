@@ -1,1 +1,2 @@
-# EkohRadio-24-7-2-
+# super-super-heroku-bot
+Bot using heroku, 24/7!
